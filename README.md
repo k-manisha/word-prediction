@@ -1,7 +1,7 @@
 # Vue 3 + Vite
+This app is created using Vue3 with Vite. Added router and tailwind CSS.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+To run the project, Use Command:
+  * npm run dev
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+THe game contains a login screen where user has to enter name and email to enter the Game.
