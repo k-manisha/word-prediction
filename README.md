@@ -1,5 +1,5 @@
-# Vue 3 + Vite
-This app is created using Vue3 with Vite. Added router and tailwind CSS.
+# Word prediction
+This app is created using Vue3 + Vite. Added router and tailwind CSS.
 
 To run the project, Use Command:
   * npm run dev
